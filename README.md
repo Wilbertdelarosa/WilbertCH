@@ -26,10 +26,8 @@
 <br />
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/wilbertdelarosa/">
-  <img align="left" alt="Wilbert De la Rosa LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-([My portfolio](http://wilbertdelarosa.com/))
+-([linkedIn](https://www.linkedin.com/in/wilbertdelarosa))
+-([My portfolio](http://wilbertdelarosa.com))
 
 
 <br />
