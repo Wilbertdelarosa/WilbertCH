@@ -26,7 +26,7 @@ Here you can find some projects I created as side projects and for school.
 
 <br />
 
-### Connect with me:
+### Contact me!
 - [LinkedIn](https://www.linkedin.com/in/wilbertdelarosa)<br />
 - [My portfolio](http://wilbertdelarosa.com)
 - [Email](wilbert_delarosa@student.uml.edu)
