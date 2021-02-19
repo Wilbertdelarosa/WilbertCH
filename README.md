@@ -2,7 +2,7 @@
 ### Here you can find some projects I created as side projects and for school. 
 
 ###My hobbies:
-- Reading (fiction, articles, finance, programming, self-development)
+- Reading (fiction, articles, finance, programming, self-development)([goodreads](https://www.goodreads.com/user/show/41622087-wilbert-de-la-rosa))
 - Listening music(Any genre!)
 - Workout(running, lifting weights)
 - Listening to Audiobooks and podcasts 
@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/wilbertdelarosa/">
   <img align="left" alt="Wilbert De la Rosa LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+([My portfolio](http://wilbertdelarosa.com/))
 
 
 <br />
