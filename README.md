@@ -28,7 +28,7 @@
 ### Connect with me:
 - [linkedIn](https://www.linkedin.com/in/wilbertdelarosa)<br />
 - [My portfolio](http://wilbertdelarosa.com)
-- [Email](< a href="wilbert_delarosa@student.uml.edu">wilbert_delarosa@student.uml.edu< /a>
+- [Email](wilbert_delarosa@student.uml.edu)
 
 
 <br />
