@@ -26,8 +26,8 @@
 <br />
 
 ### Connect with me:
--([linkedIn](https://www.linkedin.com/in/wilbertdelarosa))
--([My portfolio](http://wilbertdelarosa.com))
+-[linkedIn](https://www.linkedin.com/in/wilbertdelarosa)<br />
+-[My portfolio](http://wilbertdelarosa.com)
 
 
 <br />
