@@ -1,6 +1,6 @@
 ### Hello, I'm Wilbert De la Rosa a Computer Science Student at UML, currently I'm doing a concentration in Data Science and minor in Math👋
 
-Here you can find some projects I created as side projects and for school. 
+Here you can find some side and school projects. 
 
 ### My hobbies:
 - Reading (fiction, articles, finance, programming, self-development)([goodreads](https://www.goodreads.com/user/show/41622087-wilbert-de-la-rosa))
