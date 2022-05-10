@@ -1,4 +1,4 @@
-### Hello, I'm Wilbert De la Rosa a Computer Science Student at UML, currently I'm doing a concentration in Data Science and minor in Math👋
+### Hello, I'm Wilbert De la Rosa a Computer Science Student at UML👋
 
 Here you can find some side and school projects. 
 
